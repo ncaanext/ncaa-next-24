@@ -1,1 +1,0 @@
-NOTE: Most socks are shared textures. Replacing the texture will most likely affect other teams. Long and 2-tone socks appear to be unique for the most part, while short ones are very often shared.
