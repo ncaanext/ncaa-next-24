@@ -1,11 +1,11 @@
-# NCAA 06 Football Next 23
+# NCAA 06 Football Next 24
 
-![199928799-50699701-c430-496d-9de5-61025819505f](https://user-images.githubusercontent.com/24241868/204074010-2bb975c5-403d-4b19-b4f8-961d2999aebc.jpg)
+![Coming Fall 2023](https://raw.githubusercontent.com/ncaanext/ncaa06-next/v14/covers/next24-comingsoon.jpg)
 
 
 https://www.ncaanext.com
 
-2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
+2023 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
 
 ### Latest Releases
 
