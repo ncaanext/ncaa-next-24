@@ -39,7 +39,7 @@ https://wiki.ncaanext.com
 **Note:** This mod assumes you have a legitimate copy of NCAA Football 06 for PS2, dumped into an ISO format and played with PCSX2 v1.7+ and a legitimate PS2 BIOS dump.
 
 
-The NCAA NEXT Mod is a fully integrated modification of NCAA Football 06 for the 2022 season with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 10,000 new graphics textures and modifications to the entire game's code, database structure, and strings to enhance gameplay, dynasty mod, and visual quality, and much, much more! 
+The NCAA NEXT Mod is a fully integrated modification of NCAA Football 06 with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 15,000 new graphics textures and modifications to the entire game's code, database structure, and strings to enhance gameplay, dynasty mod, and visual quality, and much, much more! 
 
 Features include:
 
