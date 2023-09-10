@@ -1,6 +1,6 @@
 # NCAA 06 Football Next 24
 
-![Coming Fall 2023](https://raw.githubusercontent.com/ncaanext/ncaa06-next/v14/covers/next24-comingsoon.jpg)
+![Preview Beta](https://raw.githubusercontent.com/ncaanext/ncaa06-next/v14/covers/next24-preview-beta.jpg)
 
 
 https://www.ncaanext.com
