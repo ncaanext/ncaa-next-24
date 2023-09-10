@@ -23,9 +23,7 @@ https://discord.ncaanext.com
 
 For media inquiries about this repository or project please start by contacting 
 
-* Discord: @h4wduk3n#1798
-* Twitter: @h4wduk3n
-* Email: h4wduk3n@yahoo.com or contact@antdroid.dev
+* Email: antdroid@ncaanext.com | h4wduk3n@ncaanext.com | jd637@ncaanext.com | jdhalfrack@ncaanext.com
 
 You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
 
@@ -41,50 +39,41 @@ https://wiki.ncaanext.com
 **Note:** This mod assumes you have a legitimate copy of NCAA Football 06 for PS2, dumped into an ISO format and played with PCSX2 v1.7+ and a legitimate PS2 BIOS dump.
 
 
-The NCAA NEXT 23 Mod is a fully integrated modification of NCAA Football 06 for the 2022 season with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 10,000 new graphics textures and modifications to the entire game's code, database structure, and strings to enhance gameplay, dynasty mod, and visual quality, and much, much more! 
+The NCAA NEXT Mod is a fully integrated modification of NCAA Football 06 for the 2022 season with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 10,000 new graphics textures and modifications to the entire game's code, database structure, and strings to enhance gameplay, dynasty mod, and visual quality, and much, much more! 
 
 Features include:
 
-
-**Game PS2 Executable (ELF) Updates:**
+**Major Game Upgrades**
+- Over 15,000 Textures Replaced at 4K Res+
+- Modern Rosters
+- Modern College Football Alignment/League Structure & Scheduling, including 12-Game Scheduling System and Notre Dame's rotation and rivalries
 - College Football Playoff
+- Conference Championships and Divisionless Conferences
+- Updated Bowl Names/Sites
+- Modern Playbooks including real Coaches and Coaching Strategies
+- Transfer Portal Recruiting and Waived Transfer Wait Period
 - De-Interlacing Built-In to improve visual quality
-- 2022 Starting Year
-- In-Game Text Updates
-- Transfer Waiting Period Removal
-- Increased Transfer Portal Activity and Expanded Capabilities
-- Allows Duplicate Jersey Numbers
-- Permanent PAC-12/CUSA Championship Stadium
-- Added 1 and 2 Star Recruits to In-Season Recruiting Phase
-- BCS Ranking Algorithm Fixes for Additional Teams
-- Updated Player Number Generation Choices to match NCAA Rules
-- Added ability to have "0" player number
-- Unlocked 2 additional hidden Championship Games (must be user modified)
-- Added CPU Coach Stat Tracking
-- 40 Second Playclock Update
-- Running Game Clock per NCAA Rules
-- 25 Yard Line Touchback Placement Update 
+- Uniform Expansion - Up to 20 uniform kits per team!
+- New Modern Gear and Accessories
+- ALL Modern NCAA Rules as of 2023
 - Accelerated Play Clock Option
-- Up to 10 Conference Championship Games including divisionless conferences
-- Recruit Kickers/Punters in-season
-- Replaceable Goal Line Formation to Any Formation
-
-**Internal League Database Updates:**
-- League Structure Overhaul
-- 7 New Teams Include Stadiums and Graphics Assets
-- Updated Rosters and Coaches, including FCS coaches
-- Updated Team Strategies
-- B1G and PAC-12 Championship Games
-- Updated Bowl Game Sites and Names
+- Current Starting Year
+- In-Game Text Updates
+- Allows Duplicate Jersey Numbers
+- Enhanced Recruiting, including NIL Pitches, Improved In-Season Recruiting, Off-Season Recruiting improvements, etc.
+- Improved Recruiting and Walk-On Player Generation Databases
+- International Recruits
+- Unlocked Pride Sticker Counter for all teams
+- Team Prestige, Academic, and Rankings all updated
+- BCS Ranking Algorithm Fixes for Additional Teams
+- Updated Player Number Generation Choices to match NCAA Rules, including "0" jersey numbers
+- Added CPU Coach Stat Tracking, CPU Coach Firing/Retiring, and Auto-Hire for CPU teams
 - Outdoor Stadiums for teams that used to play in domes
-- Re-Written Scheduling Logic for league structure
 - Updated OOC Rivalries Scheduling + New In-Game Rivalries Added
 - Updated Recruit Ratings, 3D Model Body Shapes & Realistic Accessory Choices
 - Removed "mini" recruits
 - Removed Stadium Cannon Celebrations
 - Added Oregon Duck Mascot
-
-**Other In-Game Updates:**
 - Re-Added Historical Teams and unlocked hidden teams and allow mascot teams to play human teams
 - Modern Database of 8192 First and 8192 Last names for recruits
 - Upgraded Music Soundtrack (16 original + 16 new tracks)
@@ -94,17 +83,6 @@ Features include:
 - Uniform Numbers and Decals Fixes
 - Heisman Candidates
 - Added nameplates to uniforms that were missing this
-- New teams now have integrated texture package for less confusion through redoing game's texture MMAP and DAT files to create alternate textures for mod users, while maintaining textures for original game users.
-
-In addition, we have a huge, huge graphics texture pack with over 10,000 texture files that include over 1000 uniforms, updates to a ton of stadiums, fields, accessories, gears, helmets, broadcasts, menu art, and more.
-
-**New Texture Updates for this package from V11 include:**
-- Several new 2022 uniform updates and alternates for a number of teams (Oregon, Louisville, Air Force, Navy, Tulane, Kentucky, to name a few)
-- Updated several teams stadiums and end zone art
-- Updated Team Logos 
-- Fixes to old uniforms and logos
-- Prepared rosters and recruits for custom gear accessories capability using team made templates available on discord soon! 
-- Much more!
 
 ### **Team Credits:**
 
@@ -120,20 +98,27 @@ Core Development Team:
 * JD637
 * BaltimoreRavens
 * Talon42
+* SNOHBAWL
+* tfergii88
+* CookyBots
 
 Other Community Credits
-* CookyBots
+* Stingray
+* Harry97
 * dhs22p
 * jackson
 * kingschmiley
 * C-Dub30
+* jozur
+* MadSKillzGH
+* TaTTeDadBOD
+* zonepull5
+* Chigg Hill
 * cramp!
-* Stingray
 * Rob
 * naikznn
 * AyeeDubzz
 * Weast
-* Harry97
 * Brock
 * Reeshmd23
 * OperationSports and Football Idiot Communities
