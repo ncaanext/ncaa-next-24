@@ -2,7 +2,7 @@ These replace the TAPED WRIST wrist equipment and can be used for custom gloves.
 
 NOTE: These cannot be used with half sleeves or any other wrist equipment. They will always automatically use Wt Wrist plus this custom glove texture. Therefore, it is recommended you first utilize the TAPED HANDS replacement, and then use this replacement method if you need an additional custom glove.
 
-To use, find your team's custom gloves in your team's folder in "alternate_replacements" (or create your own), and copy the and copy to this folder.
+To use, find your team's custom gloves in your team's folder in "alternate_replacements" (or create your own), and copy the and copy to this folder or (recommended) a new folder you create in the root of the replacements folder called "zzz_MY-CUSTOM".
 
 The file should be named exactly as listed below in the "known names" list. If necessary, duplicate the file to ensure there is a copy for each of the names listed below. The files should be indentical, just named differently.
 
